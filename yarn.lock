@@ -108,9 +108,9 @@
     percy-client "^2.0.0"
     slugify "^1.1.0"
 
-"@percy-io/react-percy-storybook@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@percy-io/react-percy-storybook/-/react-percy-storybook-0.1.4.tgz#a530ff767f89f97455acfabb41baf034256763bf"
+"@percy-io/react-percy-storybook@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@percy-io/react-percy-storybook/-/react-percy-storybook-0.1.5.tgz#5624f8e751ad9fe9a65fe7348cd452363a163a33"
   dependencies:
     "@kadira/storybook" "^2.35.3"
     "@percy-io/react-percy-api-client" "^0.1.2"
